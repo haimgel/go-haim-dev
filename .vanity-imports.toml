@@ -1,0 +1,13 @@
+domain = "go.haim.dev"
+output = "_site"
+
+[index]
+description = ""
+extra_head = ""
+title = "Go Packages by Haim Gelfenbeyn"
+
+[repos]
+
+[repos."/secretvalue"]
+repo = "https://github.com/haimgel/secretvalue"
+vcs = "git"
